@@ -13,12 +13,15 @@
 4. Acceder a la aplicación desde el navegador    
 
 **Instalación del servidór Apache**
+
 ```
 sudo apt update
 sudo apt install apache2 -y
 ```
+
 ## Variables de entorno
 
 - DB_USUARIO
 - DB_EMAIL
 - DB_CLAVE
+
