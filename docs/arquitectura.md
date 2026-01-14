@@ -1,7 +1,7 @@
 ## Arquitectura
 
 ## Diagrama general
-
+![Arquitectura](img/arquitectura.png)
 ## Explicacion técnica
 La aplicación sigue una arquitectura cliente-servidor basada en MVC.  
 
@@ -12,3 +12,4 @@ La aplicación sigue una arquitectura cliente-servidor basada en MVC.
 |Frontend|HTML,CSS,JS|
 |Backend|PHP|
 |Base de datos|MySQL|
+
