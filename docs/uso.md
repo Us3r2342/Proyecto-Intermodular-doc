@@ -12,4 +12,5 @@
 - Comprár
 
 ## Capturas
-![Tienda]()
+![Tienda](img/tienda.png)
+
