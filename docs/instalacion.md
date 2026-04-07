@@ -1,7 +1,7 @@
 # INSTALACIÓN
 
 ## Requisitos
-- Servidor web Apache
+- Servidor web Nginx
 - PHP 8.0 o superior
 - MySQL
 - Navegador web moderno
@@ -16,7 +16,7 @@
 
 ```
 sudo apt update
-sudo apt install apache2 -y
+sudo apt install nginx -y
 ```
 
 ## Variables de entorno
