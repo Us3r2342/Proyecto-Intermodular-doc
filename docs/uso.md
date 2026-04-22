@@ -1,11 +1,10 @@
 # Uso de la aplicacion
 
 ## Usuarios tipo
-- Repartidór
 - Administrador
 - Usuario registrado
 - VIP
-- Invirado
+- Invitado
 ## Casos de uso
 - Añadír producto al carrito
 - Eliminar producto del carrito
